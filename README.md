@@ -71,11 +71,6 @@
 4. Click on the "Submit" button to execute the query.
 5. View the results displayed below the query input.
 
-## Contributors
-
-- Drona Kaushik Jagad (https://github.com/DJagad)
-- This Video Guided me to proceed with different steps for learning this particular project (https://www.youtube.com/watch?v=w7Ap6gZFXl0)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
